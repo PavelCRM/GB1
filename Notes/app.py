@@ -73,4 +73,4 @@ def get_number():
         if get_choice.isdigit() and int(get_choice) > 0:
             return get_choice
         else:
-            print('Введите целое положительное число!')        
+            print('Введите целое положительное число!')
